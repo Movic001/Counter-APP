@@ -1,5 +1,5 @@
-//alert("Movic Tech says, good morning")
-//alert("WELCOME TO MOVIC COUNTER APP")
+alert("Movic Tech says, good morning")
+alert("WELCOME TO MOVIC COUNTER APP")
 
 
 //let myCount=document.getElementById("countr")
